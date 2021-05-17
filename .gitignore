@@ -358,3 +358,8 @@ MigrationBackup/
 /Log.Bin
 /Imports.cs
 /src/FFXI Navmesh Builder/.idea
+/src/FFXI Navmesh Builder/bin
+/src/FFXI Navmesh Builder/obj
+/src/FFXI Navmesh Builder/*.pfx
+/src/FFXI Navmesh Builder/*.pfx
+/src/FFXI Navmesh Builder/Properties
